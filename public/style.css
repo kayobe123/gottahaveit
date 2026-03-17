@@ -263,3 +263,18 @@ footer a:hover { text-decoration: underline; }
   margin: 0.25rem auto 0;
   font-style: italic;
 }
+
+/* Product emoji & meta */
+.product-emoji {
+  font-size: 3.5rem;
+  margin-bottom: 0.5rem;
+  display: block;
+  text-align: center;
+}
+.product-meta {
+  font-size: 0.75rem;
+  color: #888;
+  margin: 0.4rem 0 0.9rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
